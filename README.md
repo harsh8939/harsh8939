@@ -1,5 +1,4 @@
-[![MasterHead]
-(https://raw.githubusercontent.com/wdelcant/wdelcant/main/api.gif)
+[![Header](https://raw.githubusercontent.com/wdelcant/wdelcant/main/api.gif)](https://wilsondelcanto.dev/)
 
 <h1 align="center">Hi 👋, I'm HARSH KORI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
